@@ -1,3 +1,4 @@
+#!/bin/bash
 name="Jhon Wick"
 secrete_name="BabaYaga"
 tool="Pencil"

@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -x 
+
 echo "Please provide an option:- "
 echo "a for print date"
 echo "b for list scripts"
